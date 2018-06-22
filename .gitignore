@@ -6,6 +6,9 @@
 # dependencies
 /node_modules
 
+#intelliJ
+.idea
+
 # misc
 .env.local
 .env.development.local
